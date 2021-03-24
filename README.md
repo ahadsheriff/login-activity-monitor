@@ -3,8 +3,6 @@
 ## _A login activity monitor to stream log data, and identify suspicious activity._
 
 #### Author: Ahad Sheriff
-
-This code was written for a Take Home Project from Datadog.
 Contact: ahadsheriff@gmail.com
 
 ## Project Requirements
