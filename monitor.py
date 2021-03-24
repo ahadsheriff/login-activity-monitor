@@ -1,7 +1,6 @@
 """
 Monitor: a login activity monitor to stream log data from a csv, and identify suspicious activity.
 
-This code was written for a Take Home Project from Datadog.
 Contact: ahadsheriff@gmail.com
 """
 
