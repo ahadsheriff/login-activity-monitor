@@ -7,7 +7,7 @@ Contact: ahadsheriff@gmail.com
 
 ## Project Requirements
 
-The initial requirements for the project stated that it should have the following functionality:
+This program satistfies the following functional requirements:
 
 - Real-time Streaming: Treat the traffic.csv file like a real-time event stream. Emulate a stream by reading one line of the csv file per second.
 - Enrichment: Enrich events with any context you think is valuable.
